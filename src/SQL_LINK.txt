@@ -1,0 +1,1 @@
+sqlite:////Users/cristallagus/Desktop/GitHub/weebet/_onboarding_data/notebook/replizierte_daten.sqlite
